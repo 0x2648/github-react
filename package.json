@@ -1,6 +1,6 @@
 {
   "name": "github-react",
-  "hostname": "https://github.com/0x2648/github-react",
+  "homepage": "https://github.com/0x2648/github-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
